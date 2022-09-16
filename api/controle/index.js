@@ -6,7 +6,7 @@ function init(req, res) {
 
 function test(req, res) {
 	res.status(200).send({
-		message: 'Testing node server! a',
+		message: 'testando o servidor node',
 	});
 }
 
