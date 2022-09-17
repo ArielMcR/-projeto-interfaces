@@ -1,1 +1,1 @@
-Ta dividio na branchs ai, boa sorte kkkk
+Ta dividido na branchs ai, boa sorte kkkk
