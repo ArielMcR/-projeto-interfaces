@@ -1,6 +1,9 @@
 <app-first-component></app-first-component>
-<h1> HELLO WORD</h1>
-<p> Olá seja Bem Vindo {{nome}}</p><!--Podemos chamar uma variável lá do app.component.ts-->
+<div [ngClass]="classe"> 
+    <h1> Primeiro pasos</h1>
+    <p> Olá seja Bem Vindo {{nome}}</p><!--Podemos chamar uma variável lá do app.component.ts-->
+</div>
 <app-parent-data [nome]="nome" [idade]="idade" [peso]="peso"  [ocupacao]="ocupacao" [local]="local" ></app-parent-data>
+<app-classes-eif></app-classes-eif>
 
 

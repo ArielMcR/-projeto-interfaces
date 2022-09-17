@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  classe = "Div_Main";
   nome = "Marcelo"; /*Podemos criar variáveis aqui e apresentar lá no app html*/ 
   idade:number = 19;
   peso = "75 Kilos"; 
