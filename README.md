@@ -1,6 +1,5 @@
 ## projeto-fullstack-web
-# GIT
+# Angular
 
-1.0 - Angular
-Uso do angular para criar um projeto web "completo"
+1.0 - Uso do angular para criar um projeto web "completo"
 
