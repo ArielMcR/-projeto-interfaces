@@ -1,6 +1,6 @@
 ## projeto-fullstack-web
 
-# Passando dados dos pais para os filhos
+# Eventos em Angular
 
 (Click) = "NomeDaFunção()"
 
